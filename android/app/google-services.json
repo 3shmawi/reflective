@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279101753310",
+    "project_id": "elnagm39-5b7a9",
+    "storage_bucket": "elnagm39-5b7a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279101753310:android:3d0dfd76cb56da5dd83f4f",
+        "android_client_info": {
+          "package_name": "com.ui.reflective"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279101753310-d06alpdj5lprag77le1fcnehubda7ppe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjox8MvmpWl5-ncllWH4WAaTYpzVjuCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279101753310-d06alpdj5lprag77le1fcnehubda7ppe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
