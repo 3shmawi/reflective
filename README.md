@@ -15,3 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # reflective
+
+
+a design with changed background as it is showing what camer see and present it on texts and icons
+
+![image](https://github.com/Ashmaawy/reflective/assets/100779215/3c094bfb-2bb5-45ec-8cc8-69239771940d)
+
+![image](https://github.com/Ashmaawy/reflective/assets/100779215/551ef4f7-d4a3-491f-baca-74a4bea727da)
+
+![image](https://github.com/Ashmaawy/reflective/assets/100779215/4fa92230-f6b4-4125-93fc-3d08239ce683)
